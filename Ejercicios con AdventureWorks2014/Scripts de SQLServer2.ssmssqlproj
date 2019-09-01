@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Scripts de SQLServer2">
+  <Items>
+    <LogicalFolder Name="Conexiones" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-TUP82C7:sa">
+          <Created>2019-07-14T17:42:44.1884927-05:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-TUP82C7</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>udemy</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Consulta</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Consultas" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="CURSOR PARTE 5.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>CURSOR PARTE 5.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FUNCION CREATE TABLE PARTE 3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>FUNCION CREATE TABLE PARTE 3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FUNCIONES PARTE 4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>FUNCIONES PARTE 4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="JOINS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>JOINS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FUNCION CREATE TABLE PARTE 2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>FUNCION CREATE TABLE PARTE 2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FUNCION CREATE TABLE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>FUNCION CREATE TABLE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CONVERT, AVG,COUNT,ROUND,HAVING.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>CONVERT, AVG,COUNT,ROUND,HAVING.sql</FullPath>
+        </FileNode>
+        <FileNode Name="IS NOT NULL, ISNULL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>IS NOT NULL, ISNULL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FUNCIONES PARTE 2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>FUNCIONES PARTE 2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT BASICOS CON TOP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SELECT BASICOS CON TOP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CURSOR PARTE 3sql.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>CURSOR PARTE 3sql.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CURSOR PARTE 4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>CURSOR PARTE 4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="INSERT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>INSERT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT DISTINCT ,SUM.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SELECT DISTINCT ,SUM.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FUNCIONES PARTE 5.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>FUNCIONES PARTE 5.sql</FullPath>
+        </FileNode>
+        <FileNode Name="WHILE PARTE 2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>WHILE PARTE 2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="WHILE PARTE 1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>WHILE PARTE 1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TRIGGERS PARTE 3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>TRIGGERS PARTE 3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TRIGGER PARTE 2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>TRIGGER PARTE 2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FUNCIONES PARTE 3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>FUNCIONES PARTE 3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CURSOR PARTE 1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>CURSOR PARTE 1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CURSOR PARTE 2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>CURSOR PARTE 2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="triggers parte 1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>triggers parte 1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UPDATE, BEGIN TRAN, ROLLBACK, COMMIT TRAN.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>UPDATE, BEGIN TRAN, ROLLBACK, COMMIT TRAN.sql</FullPath>
+        </FileNode>
+        <FileNode Name="STORED PROCEDURE PARTE 3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>STORED PROCEDURE PARTE 3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SUBCONSULTAS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SUBCONSULTAS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="STORED PROCEDURES PARTE 2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>STORED PROCEDURES PARTE 2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="STORED PROCEDURES.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>STORED PROCEDURES.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Funciones.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TUP82C7:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TUP82C7</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Funciones.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Varios" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
